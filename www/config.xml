@@ -23,7 +23,7 @@
   <preference name="StatusBarOverlaysWebView" value="true" />
   <preference name="StatusBarBackgroundColor" value="#2c3e50" />
 
-  <icon src="icon.png" />
+  <icon src="res/icon.png" />
   <icon src="res/drawable-mdpi/ic_action_settings.png"   gap:platform="android"    gap:density="mdpi" />
   <icon src="res/drawable-hdpi/ic_action_settings.png"   gap:platform="android"    gap:density="hdpi" />
   <icon src="res/drawable-xhdpi/ic_action_settings.png"  gap:platform="android"    gap:density="xhdpi" />
